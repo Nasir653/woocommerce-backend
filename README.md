@@ -29,7 +29,6 @@ backend/
 ## Setup
 1. Install dependencies:
    ```bash
-   cd backend
    npm install
    ```
 2. Configure environment variables (e.g., MongoDB URI, JWT secret, WooCommerce keys).
